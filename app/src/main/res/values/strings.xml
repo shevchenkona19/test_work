@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vk Video Feed</string>
+
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <integer name="com_vk_sdk_AppId">6251270</integer>
+</resources>
